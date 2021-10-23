@@ -105,8 +105,8 @@ header .menu{
 }
 
 #quem-somos p {
-margin-bottom: 10px;
-width: 90%;
+    margin-bottom: 10px;
+    width: 90%;
 }
 
 #quem-somos img{
@@ -125,9 +125,9 @@ width: 90%;
 }
 
 #servicos h2{
-color: #fff;
-font-size:32px;
-margin-bottom: 20px;
+    color: #fff;
+    font-size:32px;
+    margin-bottom: 20px;
 }
 
 .list-servicos {
@@ -155,10 +155,10 @@ margin-bottom: 20px;
 }
 
 .list-servicos p{
-font-weight: 700;
-font-size: 18px;
-color: #fff;
-margin-top:20px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    margin-top:20px;
 }
 
 .item-servico img{
@@ -173,7 +173,7 @@ margin-top:20px;
 }
 
 #planos h2{
-font-size:32px;
+    font-size:32px;
 
 }
 
@@ -184,11 +184,11 @@ font-size:32px;
 }
 
 .item-plano{
-flex: 1;
-border: 5px solid #122A57;
-margin-right: 20px;
-padding: 10px;
-max-width: 240px;
+    flex: 1;
+    border: 5px solid #122A57;
+    margin-right: 20px;
+    padding: 10px;
+    max-width: 240px;
 }
 
 .item-plano .btn{
@@ -203,17 +203,17 @@ max-width: 240px;
     display: flex;
     flex-direction: column;
     text-align: center;
-margin-top: 20px;
+    margin-top: 20px;
 }
 
 .item-plano h3::after{
 /*trabalhar com pseudos elementos no h3 de planos*/
-content:"";
-background-color: #122A57;
-width: 100%;
-height: 3px;
-margin-top: 20px;
-margin-bottom: 10px;
+    content:"";
+    background-color: #122A57;
+    width: 100%;
+    height: 3px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .item-plano ul{
@@ -234,8 +234,8 @@ margin-bottom: 10px;
     content:"";
     width: 10px;
     height: 10px;
-background-color: #122A57;
-margin-right: 5px;
+    background-color: #122A57;
+    margin-right: 5px;
 }
 
 footer{
@@ -291,9 +291,9 @@ footer .footer{
     }
 
     .list-planos .item-plano{
-max-width:90%;
-margin : auto;
-width: 100%;
-margin-bottom: 20px;
+        max-width:90%;
+        margin : auto;
+        width: 100%;
+        margin-bottom: 20px;
     }
 }
